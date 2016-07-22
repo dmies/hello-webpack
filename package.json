@@ -1,0 +1,27 @@
+{
+  "name": "hello-webpack",
+  "version": "1.0.0",
+  "description": "A starter project for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmies/hello-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache2.0",
+  "bugs": {
+    "url": "https://github.com/dmies/hello-webpack/issues"
+  },
+  "homepage": "https://github.com/dmies/hello-webpack#readme",
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "babel-loader": "^6.2.4",
+    "eslint": "^3.1.1",
+    "eslint-loader": "^1.4.1",
+    "webpack": "^1.13.1"
+  }
+}
